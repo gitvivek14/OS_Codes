@@ -8,6 +8,12 @@ This Repositry Contains the Codes for the follwing Topics:
   </ul>
 
 
+  <i>To Run the code files follow the mentioned steps</i>
+  <p>1. Open Command Prompt or Terminal</p>
+  <p>2. gcc [filename].c</p>
+  <p>3.   ./a </p>
+  
+
 
 
    
